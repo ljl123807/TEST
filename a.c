@@ -1,6 +1,7 @@
 #include <stdio.h>
-int int main(int argc, const char *argv[])
+int main(int argc, const char *argv[])
 {
 	print("hello world\n");
+	print("this is develop\n");
 	return 0;
 }
